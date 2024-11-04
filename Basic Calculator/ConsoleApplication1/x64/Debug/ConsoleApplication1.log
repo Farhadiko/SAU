@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\farha\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(4,7): warning C4326: return type of 'main' should be 'int' instead of 'float'
+C:\Users\farha\source\repos\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(17,11): warning C4101: 'result': unreferenced local variable
+  ConsoleApplication1.vcxproj -> C:\Users\farha\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
